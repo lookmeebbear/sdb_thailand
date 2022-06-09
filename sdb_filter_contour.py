@@ -1,6 +1,9 @@
 ############################################################
 # SIMPLE SATELLITE DERIVED BATHYMETRY THAILAND
 # CLEAN SDB RASTER MODEL WITH RASTERIO AND CREATE CONTOUR LINE
+# PHISAN SANTITAMNONT AND THEPCHAI SRINOI
+# DEPARTMENT OF SURVEY ENGINEERING CHULALONGKORN UNIVERSITY
+############################################################
 
 import rasterio
 import matplotlib.pyplot as plt
