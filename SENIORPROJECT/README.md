@@ -1,5 +1,4 @@
-# My Senior Project
-# Satellite Derived Bathymetry with IceSAT-2 LiDAR Data : Case Study in the coast of Thailand
+# My Senior Project - Satellite Derived Bathymetry with IceSAT-2 LiDAR Data : Case Study in the coast of Thailand
 
 Google Colab ที่เคยใช้ทำโครงงานทางวิศวกรรม การทำแบบจำลองความลึกท้องน้ำตื้นโดยใช้ภาพถ่ายดาวเทียมและค่าระดับจากดาวเทียม 
 กรณีศึกษาชายฝั่งทะเลประเทศไทย ของนายเทพชัย ศรีน้อย นิสิตปริญญาตรี ภาควิชาวิศวกรรมสำรวจ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย
