@@ -10,3 +10,12 @@ https://drive.google.com/drive/folders/10mpog2Yjq305P-n7Or3SPwmjN9RW3Sf-?usp=sha
 
 นอกจากนี้ยังมีไฟล์ Thailand Geoid Model (TGM2017) สำหรับแปลงจาก ellipsoidal height 
 เป็น orthometric height และ SRTM DEM 15p thailand แบบจำลองระดับทั้งบนดินและในน้ำ
+
+หาดเจ้าสำราญ เพชรบุรี
+processed_ATL03_20201117201600_08350901_004_01.h5
+
+หาดท้ายเมือง พังงา
+processed_ATL03_20210122051715_04461007_004_01.h5
+
+เกาะหมากและพวก ตราด
+processed_ATL03_20210204162053_06521001_004_01.h5
