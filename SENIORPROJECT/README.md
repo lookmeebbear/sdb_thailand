@@ -14,8 +14,16 @@ https://drive.google.com/drive/folders/10mpog2Yjq305P-n7Or3SPwmjN9RW3Sf-?usp=sha
 หาดเจ้าสำราญ เพชรบุรี
 processed_ATL03_20201117201600_08350901_004_01.h5
 
+Google Colab https://colab.research.google.com/drive/11CIsI5OmQunolTh4Z3MT64kp17oD4ZCZ?usp=sharing
+
 หาดท้ายเมือง พังงา
 processed_ATL03_20210122051715_04461007_004_01.h5
 
+Google Colab https://colab.research.google.com/drive/1tXRQgmQv9IAC_jQpyEpvSBHHECvCAxKo?usp=sharing
+
 เกาะหมากและพวก ตราด
 processed_ATL03_20210204162053_06521001_004_01.h5
+
+Google Colab https://colab.research.google.com/drive/1XDYmfRt39VZt0cSimEpLAEJsnFToRLVT?usp=sharing
+
+Corresponding Author Electronic Mail : thepchaisrinoi@gmail.com
